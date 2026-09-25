@@ -1,0 +1,16 @@
+OwnTV rebranded release (v1.0.0)
+build time   : 2026-09-25 20:06:41
+source repo  : khalifarsm/OwnTV @ main (911c4b2)
+
+--- OwnTV (no-push) ---
+package       : com.nomixibe.roalty
+applicationId : com.nomixibe.roalty
+theme         : Theme.Panna
+rootProject   : Pangollo
+version       : 1.0.0 (100)
+keystore      : keystore/vezaranaisaldeza.jks (alias vezaranaisaldeza)
+signing cheat : storepass=vezaranaisaldeza5585 keypass=vezaranaisaldeza5585
+class renames :
+    OwnTVApp                     -> Xizaal
+    MainActivity                 -> Syiopan
+APK files   : owntv.apk, owntv-x86_64.apk
