@@ -1,16 +1,16 @@
 OwnTV rebranded release (v1.0.0)
-build time   : 2026-09-25 20:35:38
-source repo  : khalifarsm/OwnTV @ main (bcaba21)
+build time   : 2026-09-26 00:08:17
+source repo  : khalifarsm/OwnTV @ main (8a995cd)
 
 --- OwnTV (no-push) ---
-package       : com.noxogolkel.xones
-applicationId : com.noxogolkel.xones
-theme         : Theme.Panvor
-rootProject   : Lonoro
+package       : com.zalodeax.rokuisxo
+applicationId : com.zalodeax.rokuisxo
+theme         : Theme.Katoranes
+rootProject   : Arxigol
 version       : 1.0.0 (100)
-keystore      : keystore/panzapanpantopanqu.jks (alias panzapanpantopanqu)
-signing cheat : storepass=panzapanpantopanqu4441 keypass=panzapanpantopanqu4441
+keystore      : keystore/ispanaxrarato.jks (alias ispanaxrarato)
+signing cheat : storepass=ispanaxrarato2637 keypass=ispanaxrarato2637
 class renames :
-    OwnTVApp                     -> Kelnator
-    MainActivity                 -> Iopan
+    OwnTVApp                     -> Vekatyve
+    MainActivity                 -> Ardeis
 APK files   : owntv.apk, owntv-x86_64.apk
